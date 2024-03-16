@@ -4,6 +4,7 @@ public class Car {
 
     private String brand;
     private String model;
+    private Integer userId;
 
     public Car() {
         super();
@@ -19,6 +20,14 @@ public class Car {
 
     public String getModel() {
         return model;
+    }
+
+    public Integer getUserId() {
+        return userId;
+    }
+
+    public void setUserId(Integer userId) {
+        this.userId = userId;
     }
 
     public void setModel(String model) {

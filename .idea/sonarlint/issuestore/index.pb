@@ -1,8 +1,6 @@
 
 
 Ocar-service/src/main/java/com/sashakowalc/carservice/CarServiceApplication.java,3\b\3bc46fcec9fa6adc59497c3fe599f389afb27708
-ƒ
-Suser-service/src/main/java/com/sashakowalc/user-service/UserServiceApplication.java,1\9\198564a8e6a8cd22fef61d54ceb8d1c289b8d1ca
 D
 user-service/pom.xml,d\2\d2f5d1978e5f519100a679c4109f89296278badc
 ˆ
@@ -33,3 +31,9 @@ gmotorcycle-service/src/main/java/com/sashaKowalc/motorcycleservice/repository/M
 amotorcycle-service/src/main/java/com/sashaKowalc/motorcycleservice/service/MotorcycleService.java,f\5\f50820ba8ee43e0ee2cdcc963d5d07e179f9eadf
 ~
 Nuser-service/src/main/java/com/sashakowalc/service/UserServiceApplication.java,e\9\e9c72e456077f4fde2c216462c9715da1afeb5f0
+ƒ
+Suser-service/src/main/java/com/sashakowalc/service/feignclients/CarFeignClient.java,6\4\64a376925b19d54f4931e26ff0e4c8a8501d0d8e
+Š
+Zuser-service/src/main/java/com/sashakowalc/service/feignclients/MotorcycleFeignClient.java,6\9\69aa1fec74bfb307ee15c196134e006113a60a2a
+{
+Kuser-service/src/main/java/com/sashakowalc/service/entities/UserEntity.java,3\f\3f94e3164384d54664f556004ab2148c74b2429f
